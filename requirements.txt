@@ -4,7 +4,7 @@ numpy
 scikit-learn
 matplotlib
 wordcloud
-shap
+shap==0.39.0         # 👈 downgrade this
 vaderSentiment
 transformers
 torch
