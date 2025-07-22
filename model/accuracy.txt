@@ -1,0 +1,2 @@
+Logistic Regression Accuracy: 0.9826
+Naive Bayes Accuracy: 0.9353
