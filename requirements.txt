@@ -1,10 +1,10 @@
 streamlit
 pandas
-numpy
+numpy==1.23.5
 scikit-learn
 matplotlib
 wordcloud
-shap==0.39.0         # 👈 downgrade this
+shap==0.48.0
 vaderSentiment
 transformers
 torch
