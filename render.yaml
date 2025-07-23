@@ -1,8 +1,9 @@
 services:
   - type: web
-    name: fake-news-detector
+    name: fake-news-detection-app
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: streamlit run app.py
-    pythonVersion: 3.9.13
+    pythonVersion: 3.9
+
